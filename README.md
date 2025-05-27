@@ -1,4 +1,5 @@
 # MLB FanFeed
+
 ## Overview
 MLB FanFeed is a web application that provides personalized insights about your favorite baseball team, match predictions, and AI-powered highlights in one place.
 
